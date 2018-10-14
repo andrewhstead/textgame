@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'CCB Basic Regular';
+    src: url('CCB BASIC_2.otf');
+} 
+
+body {
+    font-family: 'CCB Basic Regular';
+    background-color: black;
+    color: white;
+}
